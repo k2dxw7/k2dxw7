@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Dr. Doug (aka k2dxw7) and specialize in the intersects of tech, process, and culture.
+- 👀 I’m interested in learning how the Workfront API functions related to the work I do to support the product and its connected applications
+- 📫 You may always reach me here of on linkedin at https://www.linkedin.com/in/dkwilliams/
